@@ -101,7 +101,6 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2020 | **Data and model dependencies of membership inference attack** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2002.06856) | |
 | 2020 | **A Pragmatic Approach to Membership Inferences on Machine Learning Models** | Black-box | Classification Models | EuroS&P | [Link](https://ieeexplore.ieee.org/abstract/document/9230385?casa_token=rReHm3AMDfwAAAAA:tbLfZUjLhEO368PbybwT6RVNgzAwFD9t0_Xhy9KnrZ9eX9dxJq9IunO6GH6Wm7fk7OPHfHF0AQ) | |
 | 2020 | **Quantifying Membership Inference Vulnerability via Generalization Gap and Other Model Metrics** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2009.05669) | 
-| 2020 | **Practical Membership Inference Attack Against Collaborative Inference in Industrial IoT** | White-box | Classification Models | IEEE Trans. Industr. Inform. | [Link](https://ieeexplore.ieee.org/document/9302683?denied=) | |
 
 
 
