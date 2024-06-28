@@ -48,7 +48,6 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2023 | **SoK: Membership Inference is Harder Than Previously Thought** | Black-box | Classification Models | Arxiv | [Link](https://www.petsymposium.org/2023/files/papers/issue3/popets-2023-0082.pdf) | [Link](https://bitbucket.org/srecgrp/sok-membership-inference-public/src/master/) |
 | 2023 | **Re-aligning Shadow Models can Improve White-box Membership Inference Attacks** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2306.05093) | |
 | 2023 | **Membership inference attack with relative decision boundary distance** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2306.04109) | |
-| 2023 | **A Blessing of Dimensionality in Membership Inference through Regularization** | Black-box | Classification Models | AISTATS | [Link](https://proceedings.mlr.press/v206/tan23b.html) | [Link](https://github.com/tanjasper/benign_overparam_MI) |
 
 ### Attack Papers 2022
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
