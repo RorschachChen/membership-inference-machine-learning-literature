@@ -44,9 +44,7 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 ### Attack Papers 2023
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
 |-------|--------|--------|--------|-----------|------------|---------------|
-| 2023 | **Low-Cost High-Power Membership Inference by Boosting Relativity** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2312.03262) | [Link](https://github.com/privacytrustlab/ml) |
 | 2023 | **Privacy Side Channels in Machine Learning Systems** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/pdf/2309.05610.pdf) | |
-| 2023 | **Scalable Membership Inference Attacks via Quantile Regression** | Black-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2307.03694) | |
 | 2023 | **Gaussian Membership Inference Privacy** | White-box | Classification Models | NeurIPS | [Link](https://arxiv.org/abs/2306.07273) | [Link](https://github.com/tleemann/gaussian_mip) |
 | 2023 | **SoK: Membership Inference is Harder Than Previously Thought** | Black-box | Classification Models | Arxiv | [Link](https://www.petsymposium.org/2023/files/papers/issue3/popets-2023-0082.pdf) | [Link](https://bitbucket.org/srecgrp/sok-membership-inference-public/src/master/) |
 | 2023 | **Re-aligning Shadow Models can Improve White-box Membership Inference Attacks** | White-box | Classification Models | Arxiv | [Link](https://arxiv.org/abs/2306.05093) | |
