@@ -89,8 +89,6 @@ Search keywords like conference name (e.g., ```CCS```), adversarial knowledge (e
 | 2021 | **How Does Data Augmentation Affect Privacy in Machine Learning?** | Black-box | Classification Models | AAAI | [Link](https://www.aaai.org/AAAI21Papers/AAAI-353.YuD.pdf) | [Link](https://github.com/dayu11/MI_with_DA)|
 | 2021 | **Killing four birds with one Gaussian process: the relation between different test-time attacks** | Black-box | Classification Models | ICPR | [Link](https://ieeexplore.ieee.org/abstract/document/9413290?casa_token=RxUKWNuCdsAAAAAA:eg4blFMRYcf9sWqjagDPFqunYNKjN1cwASboegqbvOJyC8ERxy8WOAH0MNvCA5IhAJfJUGnS8g) | |
 | 2021 | **Membership Leakage in Label-Only Exposures** | Black-box | Classification Models | CCS | [Link](https://arxiv.org/abs/2007.15528) | |
-| 2021 | **Membership Inference Attacks on Deep Regression Models for Neuroimaging** | Black-box | Regression Models | MIDL | [Link](https://arxiv.org/abs/2105.02866) | |
-| 2021 | **Membership Inference Attacks on Lottery Ticket Networks** | Black-box | Classification Models | ICML Workshop | [Link](https://openreview.net/forum?id=4lyXal2ZWB3) | |
  
 ### Attack Papers 2020 [[Back to Top](#membership-inference-attacks-and-defenses-on-machine-learning-models-literature)]
 | Year   | Title |  Adversarial Knowledge | Target Model  |   Venue  | Paper Link  | Code Link |
